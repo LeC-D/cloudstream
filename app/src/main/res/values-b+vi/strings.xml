@@ -10,11 +10,11 @@
     <string name="next_episode_time_min_format" formatted="true">%dm</string>
     <!-- IS NOT NEEDED TO TRANSLATE AS THEY ARE ONLY USED FOR SCREEN READERS AND WONT SHOW UP TO NORMAL USERS -->
     <string name="result_poster_img_des">Poster</string>
-    <string name="search_poster_img_des">Ảnh bìa</string>
-    <string name="episode_poster_img_des">Episode Poster</string>
-    <string name="home_main_poster_img_des">Main Poster</string>
-    <string name="home_next_random_img_des">Next Random</string>
-    <string name="go_back_img_des">Quay trở lại</string>
+    <string name="search_poster_img_des">Poster</string>
+    <string name="episode_poster_img_des">Poster tập phim</string>
+    <string name="home_main_poster_img_des">Poster chính</string>
+    <string name="home_next_random_img_des">Tập tiếp theo ngẫu nhiên</string>
+    <string name="go_back_img_des">Quay lại</string>
     <string name="home_change_provider_img_des">Change Provider</string>
     <string name="preview_background_img_des">Preview Background</string>
     <!-- TRANSLATE, BUT DON'T FORGET FORMAT -->
@@ -511,7 +511,7 @@
     <string name="jsdelivr_proxy">GitHub Proxy</string>
     <string name="jsdelivr_enabled">Không thể kết nối được tới GitHub. Đang bật jsDelivr proxy…</string>
     <string name="pref_category_android_tv">Android TV</string>
-    <string name="restart">Khởi động lại</string>
+    <string name="restart">Phát từ đầu</string>
     <string name="subscription_new">Đã đăng kí %s</string>
     <string name="subscription_episode_released">Tập %d đã ra mắt!</string>
     <string name="subscription_list_name">Đã đăng kí</string>
@@ -771,4 +771,6 @@
     <plurals name="downloads_queued">
         <item quantity="other">%d lượt tải xuống đang chờ xử lý</item>
     </plurals>
+    <string name="extra_brightness_key">Bật tăng cường độ sáng</string>
+    <string name="show_player_metadata_overlay">Hiển thị lớp phủ siêu dữ liệu trình phát</string>
 </resources>
